@@ -1106,6 +1106,7 @@ class _TerminalScreenState extends State<TerminalScreen>
     }
   }
 
+
   // ─── WebSocket Connection ───────────────────────────────────────────────
 
   void _connectToHub() {
