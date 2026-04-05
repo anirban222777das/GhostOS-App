@@ -1,0 +1,1 @@
+node "/Users/anirbandas/Desktop/ghost os/server/server.js"
